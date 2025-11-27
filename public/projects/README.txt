@@ -1,0 +1,1 @@
+Place project screenshots here (public/projects/*.png)

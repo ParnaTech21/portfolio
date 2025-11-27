@@ -1,0 +1,1 @@
+Place certificate images here (public/certs/*.png)
